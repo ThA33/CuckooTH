@@ -39,6 +39,7 @@
   <li dir='rtl' align='right'>اضافة منصة MISP </li>
   <li dir='rtl' align='right'>اضافة أداة Moloch</li>
   <li dir='rtl' align='right'>نسخة 18.04 من نظام Ubuntu</li>
+  <li dir='rtl' align='right'>يعمل على مواصفات منخفضة 4RAM و2 Processor (يفضل رفعها لأداء أسرع)</li>
 </ul>  
 
 <h2 dir='rtl' align='right'>طريقة الاستخدام</h2>

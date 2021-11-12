@@ -15,9 +15,9 @@
 </br>
 <p dir='rtl' align='right'>
   للتحميل من 
-<a  href="https://archive.org/details/cuckoo-th-misp-moloch-dfir-disk-1">هنا</a> 
-<a  href="https://archive.org/details/cuckoo-th-misp-moloch-dfir">هنا</a>
-[تنبيه: تم تجربته فقط على VMWare و يرجى تحميل 3 ملفات من الرابطين بصيغة ofv | vmdk | mf]
+<a  href="https://archive.org/download/cuckoo-th_202111">هنا</a> 
+
+[تنبيه: تم تجربته فقط على VMWare]
   </br>
 </br>
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/38037944/140654540-326bb2f3-103b-42d9-ba84-105f8320eaf3.jpg">

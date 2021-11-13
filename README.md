@@ -15,11 +15,10 @@
 </br>
 <p dir='rtl' align='right'>
   للتحميل من 
-<a  href="https://archive.org/download/cuckoo-th_202111">هنا</a> 
-
+<a  href="https://archive.org/download/cuckoo-th_202111">هنا</a>
 [تنبيه: تم تجربته فقط على VMWare]
-  </br>
-</br>
+ </br>
+<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/38037944/141642690-53335bf7-fb60-4e4e-b13d-7a82718a4cf2.png">
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/38037944/140654540-326bb2f3-103b-42d9-ba84-105f8320eaf3.jpg">
 </br>
 
@@ -27,7 +26,6 @@
 </br>
 </br>
 </br>
-</br> 
 </br>
 </br>
 </br>
@@ -35,7 +33,9 @@
 </br>
 </br>
 </br>
-
+</br>
+</br>
+</br>
 
 ## منصة MISP
 
